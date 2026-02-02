@@ -15,7 +15,7 @@ defineProps([
 
 <template>
   <div
-    class="bg-white shadow-lg rounded-2xl min-[32opx] overflow-hidden text-center"
+    class="bg-white shadow-lg rounded-2xl min-[32opx] overflow-hidden text-center transition-transform duration-300 hover:-translate-y-2 hover:shadow-2xl"
   >
     <div
       class="relative min-h-32 bg-cover bg-center"
